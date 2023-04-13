@@ -16,7 +16,7 @@ mycom
 
 while :
 do
-  echo "\033[92m $(date '+%T)"
+  echo -e "\033[92m $(date '+%T')"
   sleep 1
   clear
 done
