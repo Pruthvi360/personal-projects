@@ -5,4 +5,5 @@
 
 ## SECOND PROJECT INVETORY OF REMOTE SERVER AND STORE IN CSV FILE
 
-# 
+![image](https://user-images.githubusercontent.com/107435692/232011832-95209f57-3cec-45a4-b064-cd0333c79927.png)
+
