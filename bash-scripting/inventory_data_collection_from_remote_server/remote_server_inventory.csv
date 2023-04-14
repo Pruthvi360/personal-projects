@@ -1,0 +1,4 @@
+Sl_no,OS_TYPE,OS_VERSION,CPU_INFO,ARCHITECTURE_TYPE,HOST_OS,
+Kali GNU/Linux,2023.1, Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,unknown,6.1.0-kali5-amd64
+Red Hat Enterprise Linux,9.1, Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,x86_64,5.14.0-162.6.1.el9_1.x86_64
+Ubuntu,22.04, Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,x86_64,5.19.0-38-generic
