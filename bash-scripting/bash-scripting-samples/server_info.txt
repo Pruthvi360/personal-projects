@@ -1,0 +1,9 @@
+#ip           username   password   cmd
+192.168.10.1 automation automation date
+192.168.10.2 kali kali pwd
+192.168.10.3 redhat redhat "free -m"
+
+
+192.168.10.1,automation,automation,date
+192.168.10.2,kali,kali,pwd
+192.168.10.3,redhat,redhat,"free -m"
