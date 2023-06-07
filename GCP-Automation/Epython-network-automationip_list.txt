@@ -1,5 +1,0 @@
-This is a pingable ip address in this range: 192.168.0.254
-ping to 192.168.0.1 Successfull
-ping to 192.168.0.2 Successfull
-ping to 192.168.0.3 Successfull
-ping to 192.168.0.4 Successfull

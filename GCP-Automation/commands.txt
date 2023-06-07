@@ -1,3 +1,0 @@
-uptime
-free -m
-df -h
