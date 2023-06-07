@@ -1,0 +1,9 @@
+{
+   "Type": "Router",
+   "Manufacturer": "Arista",
+   "version": [
+      "v4.1",
+      "v4.2",
+      "v4.3"
+   ]
+}
